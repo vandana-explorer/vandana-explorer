@@ -1,73 +1,86 @@
-# Hi there, I'm Vandana
+# Hi there, I'm Vandana Kumari 👋
 
-### Backend Java Developer | Spring Boot | Microservices | Cloud Enthusiast
+### Seasoned Platform Specialist | Java Microservices | Kafka | Cloud (AWS & GCP) | Terraform
 
-A passionate Java developer with strong expertise in building scalable, high-performance backend systems using **Spring Boot**, **Microservices**, and modern cloud technologies.
+**12+ years** of experience building scalable, high-performance enterprise applications in the **telecom and digital transformation** domains.
+
+Currently working as **Platform Specialist** at **Publicis Sapient**, driving innovation through modern Java platforms, microservices architecture, and cloud-native solutions.
 
 ---
 
-### 🛠️ Technologies & Skills
+### 🛠️ Expertise & Skills
 
-**Core Languages & Frameworks**
-- **Java** (Core, Collections, Multithreading, Java Memory Model)
-- **Spring Boot** | Spring Cloud | Spring Security | Spring Data JPA
-- **Microservices** (REST, gRPC, Event-Driven)
+**Core Technologies**
+- **Java / JEE** (Core Java, Multithreading, Collections, Java Memory Model)
+- **Spring Framework**: Spring Boot, Spring MVC, Spring Integration, Spring Cloud
+- **Integration & Messaging**: Apache Camel, Kafka
+- **Microservices**: REST, Event-Driven Architecture, API Gateway, Resilience Patterns
 
-**Cloud & DevOps**
-- **AWS** | **GCP** | **Azure** (Learning)
-- Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins)
+**Cloud & Infrastructure**
+- **AWS** | **GCP**
+- Terraform (Infrastructure as Code)
+- Docker | Kubernetes | CI/CD pipelines
+
+**Databases & Tools**
 - PostgreSQL | MySQL | MongoDB | Redis
+- Maven | Git | Jenkins | Postman | Swagger
+- JUnit | Mockito
 
-**Tools & Others**
-- Git | Maven | Gradle | Postman | Swagger
-- JUnit | Mockito | Testcontainers
-- Kafka | RabbitMQ
-- Elasticsearch (basic)
-
----
-
-### 🔥 Currently Focusing On
-- Mastering **System Design** & Low-Level Design (LLD)
-- Deep dive into **Java 21+** features (Virtual Threads, Records, Pattern Matching)
-- Preparing for **Senior Java Backend Interviews**
+**Domains**
+- Telecommunications
+- Digital Platforms & Enterprise Solutions
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Professional Experience
 
-![Vandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+**Platform Specialist**  
+**Publicis Sapient** — *July 2021 – Present* (4+ years)  
+Delhi, India
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+**Team Lead**  
+**Infogain** — *January 2018 – July 2021* (3+ years)
+
+**Senior Associate L1**  
+**Sapient** — *June 2015 – December 2017* (2+ years)  
+Gurgaon, India
+
+**Software Developer**  
+**Ericsson** — *August 2014 – June 2015*
+
+**Engineer - Application Development**  
+**CSC** — *December 2009 – August 2014* (4+ years)  
+Noida, India  
+(Java/JEE Developer in Telecommunications Domain)
+
+---
+
+### 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+**Jamia Millia Islamia**, New Delhi  
+(2006 – 2009)
+
+---
+
+### 🌟 Currently Focusing On
+- Advanced **System Design** (HLD & LLD)
+- **Java 21+** features (Virtual Threads, Records, Pattern Matching)
+- Cloud-native best practices with Terraform + Kubernetes
+- Mentoring teams on microservices and integration patterns
 
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-- **LeetCode**: [leetcode.com/yourusername](https://leetcode.com/yourusername)
+- **Email**: [vandana14dec@gmail.com](mailto:vandana14dec@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vandanasd](https://www.linkedin.com/in/vandanasd)
+- **Location**: Delhi, India
 
 ---
 
-### 🌟 Featured Projects
+### 📊 GitHub Stats
 
-#### 1. E-Commerce Microservices Application
-- Built using **Spring Boot**, **Spring Cloud**, **Eureka**, **API Gateway**, **Kafka**
-- Implemented **Resilience4j**, **Distributed Tracing** with Zipkin
-- Technologies: Docker, Kubernetes, PostgreSQL, Redis
-- [View Repository →](https://github.com/yourusername/ecommerce-microservices)
+![Vandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandana-explorer&show_icons=true&theme=radical&hide_border=true)
 
-#### 2. Real-time Chat Application
-- Spring Boot + WebSocket + MongoDB
-- JWT Authentication + Rate Limiting
-- [View Repository →](https://github.com/yourusername/chat-app)
-
-*(Replace the above project links with your actual repositories once you add them)*
-
----
-
-Made with ❤️ using Java & Spring Boot
-
----
-
-**"Building robust systems, one thread at a time."**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandana-explorer&layout=compact&theme=radical&hide_border=true)
